@@ -1,0 +1,70 @@
+2025-06-05 11:25:01,470 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000299A149B450>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-05 11:25:01,471 - INFO - Tortoise-ORM generating schema
+2025-06-05 11:25:23,832 - INFO - Login attempt for user: ronnu1
+2025-06-05 11:25:23,833 - INFO - Generating token for user: ronnu1
+2025-06-05 11:25:23,833 - INFO - Verifying username
+2025-06-05 11:25:23,835 - INFO - Verifying user password
+2025-06-05 11:25:24,123 - INFO - Verification of username: ronnu1 successfull
+2025-06-05 11:25:24,123 - INFO - Token generated for user: ronnu1
+2025-06-05 11:25:50,811 - INFO - Tortoise-ORM shutdown
+2025-06-05 11:51:38,791 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000026F3CB7AE50>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-05 11:51:38,791 - INFO - Tortoise-ORM generating schema
+2025-06-05 11:53:03,298 - INFO - Registration attempt for username: ronnu2, email: gnat24345@mailshan.com
+2025-06-05 11:53:03,541 - INFO - Generating token data for user: ronnu2
+2025-06-05 11:53:09,330 - INFO - Verification email sent successfully to ['gnat24345@mailshan.com']
+2025-06-05 11:53:09,334 - INFO - User created: ronnu2
+2025-06-05 11:53:17,759 - INFO - Verification attempt with token
+2025-06-05 11:53:17,759 - INFO - Verifying token
+2025-06-05 11:53:17,760 - INFO - Token valid for user ID 38
+2025-06-05 11:53:17,762 - INFO - User ronnu2 verified successfully
+2025-06-05 11:53:18,287 - INFO - Verification attempt with token
+2025-06-05 11:53:18,288 - INFO - Verifying token
+2025-06-05 11:53:18,288 - INFO - Token valid for user ID 38
+2025-06-05 11:53:18,288 - INFO - User ronnu2 already verified 
+2025-06-05 11:56:21,002 - INFO - Login attempt for user: ronnu2
+2025-06-05 11:56:21,002 - INFO - Generating token for user: ronnu2
+2025-06-05 11:56:21,002 - INFO - Verifying username
+2025-06-05 11:56:21,003 - INFO - Verifying user password
+2025-06-05 11:56:21,215 - INFO - Verification of username: ronnu2 successfull
+2025-06-05 11:56:21,216 - INFO - Token generated for user: ronnu2
+2025-06-05 11:56:31,266 - INFO - User ronnu2 uploading profile image: comp_tshirt.jfif
+2025-06-05 11:58:57,788 - INFO - User ronnu2 uploading profile image: comp_tshirt.jpg
+2025-06-05 11:58:57,954 - INFO - Image saved
+2025-06-05 11:59:39,377 - INFO - Tortoise-ORM shutdown
+2025-06-05 11:59:56,319 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001F4DA651250>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-05 11:59:56,320 - INFO - Tortoise-ORM generating schema
+2025-06-05 12:00:14,310 - INFO - Login attempt for user: ronnu2
+2025-06-05 12:00:14,310 - INFO - Generating token for user: ronnu2
+2025-06-05 12:00:14,310 - INFO - Verifying username
+2025-06-05 12:00:14,312 - INFO - Verifying user password
+2025-06-05 12:00:14,548 - INFO - Verification of username: ronnu2 successfull
+2025-06-05 12:00:14,549 - INFO - Token generated for user: ronnu2
+2025-06-05 12:10:39,245 - INFO - New product being added by user: ronnu2
+2025-06-05 12:12:39,450 - INFO - Tortoise-ORM shutdown
+2025-06-05 12:12:41,174 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001AE1DF3B810>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-05 12:12:41,174 - INFO - Tortoise-ORM generating schema
+2025-06-05 12:39:02,098 - INFO - Tortoise-ORM shutdown
+2025-06-05 19:27:45,361 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000012661E0B450>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-05 19:27:45,363 - INFO - Tortoise-ORM generating schema
+2025-06-05 19:52:09,358 - INFO - Tortoise-ORM shutdown
+2025-06-06 10:11:32,366 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x0000018DD1D52590>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-06 10:11:32,366 - INFO - Tortoise-ORM generating schema
+2025-06-06 10:36:32,721 - INFO - Tortoise-ORM shutdown
+2025-06-06 10:36:34,280 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002A04C82A750>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-06 10:36:34,281 - INFO - Tortoise-ORM generating schema
+2025-06-06 10:36:55,620 - INFO - Tortoise-ORM shutdown
+2025-06-06 10:37:00,593 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000001C3AFC7B290>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-06 10:37:00,593 - INFO - Tortoise-ORM generating schema
+2025-06-06 11:51:47,869 - INFO - Tortoise-ORM shutdown
+2025-06-16 17:38:44,558 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002472654A9D0>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-16 17:38:44,559 - INFO - Tortoise-ORM generating schema
+2025-06-16 17:38:55,416 - INFO - Tortoise-ORM shutdown
+2025-06-16 17:40:20,513 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000236A4902590>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-16 17:40:20,514 - INFO - Tortoise-ORM generating schema
+2025-06-16 17:40:34,367 - INFO - Tortoise-ORM shutdown
+2025-06-16 17:53:55,116 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x00000244BFB27F90>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-16 17:53:55,117 - INFO - Tortoise-ORM generating schema
+2025-06-16 18:01:50,266 - INFO - Tortoise-ORM shutdown
+2025-06-17 11:43:23,094 - INFO - Tortoise-ORM started, {'default': <tortoise.backends.sqlite.client.SqliteClient object at 0x000002BE5FD38450>}, {'models': {'Business': <class 'models.Business'>, 'Product': <class 'models.Product'>, 'User': <class 'models.User'>}}
+2025-06-17 11:43:23,094 - INFO - Tortoise-ORM generating schema
+2025-06-17 11:43:31,078 - INFO - Tortoise-ORM shutdown
